@@ -1,4 +1,4 @@
-* HTML [ SEO ]
-* HTML [ Tables & Tags ]
-* HTML [ Forms & Conttroles ]
+### HTML [ SEO ]
+### HTML [ Tables & Tags ]
+### HTML [ Forms & Conttroles ]
 
