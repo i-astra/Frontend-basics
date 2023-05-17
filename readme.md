@@ -1,8 +1,8 @@
-~~i-astra~~
+- i-varad
 ### HTML [ Tables & Tags ]
 ### HTML [ Forms & Controles ]
 
-~~i-varad~~
+- i-astra
 ### CSS [ Flexbox ]
 ### CSS [ Grid ]
 ### CSS [ Prositioning ]
