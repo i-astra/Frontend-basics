@@ -1,4 +1,3 @@
-### HTML [ SEO ]
 ### HTML [ Tables & Tags ]
-### HTML [ Forms & Conttroles ]
+### HTML [ Forms & Controles ]
 
